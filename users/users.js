@@ -1,6 +1,6 @@
 const express = require("express")
 const router=express.Router()
-const usersEmailContainer = [{email:"nika.chaduneli.com@gmail.com",name:"Nigorozi"}]
+const usersEmailContainer = [{email:"elizbarashviliketi44@gmail.com",name:"keti"}]
 
 
 router.post('/create-email', (req,res)=>{
